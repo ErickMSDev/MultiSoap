@@ -25,21 +25,21 @@ Sistema de SOAP (Seguro Obligatorio de Accidentes Personales).
 ## Capturas
 #### Página Home parte superior
 
-![Página Home parte superior](https://i.ibb.co/2FnTSLt/Screen-Clip1.png)
+![Página Home parte superior](https://raw.githubusercontent.com/ErickMSDev/MultiSoap/master/ScreenClip1.png)
 
 
 #### Página Home parte inferior
 
-![Página Home parte inferior](https://i.ibb.co/4php5vH/Screen-Clip2.png)
+![Página Home parte inferior](https://raw.githubusercontent.com/ErickMSDev/MultiSoap/master/ScreenClip2.png)
 
 #### Página Ingresar los datos
 
-![Página Ingresar los datos](https://i.ibb.co/34KjNqm/Screen-Clip3.png)
+![Página Ingresar los datos](https://raw.githubusercontent.com/ErickMSDev/MultiSoap/master/ScreenClip3.png)
 
 
 #### Página Pagar
 
-![Página Pagar](https://i.ibb.co/r72qxRt/Screen-Clip4.png)
+![Página Pagar](https://raw.githubusercontent.com/ErickMSDev/MultiSoap/master/ScreenClip4.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
